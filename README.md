@@ -89,6 +89,10 @@ src/
 
 - Mapping des entités
 
+
+<img width="1292" height="258" alt="h" src="https://github.com/user-attachments/assets/682ec608-37d0-437e-a5e0-3f013a380b36" />
+
+
 ### 5️. Classe utilitaire Hibernate
 
 **Création d'une classe HibernateUtil permettant :**
@@ -114,6 +118,12 @@ les méthodes CRUD
 les transactions Hibernate
 
 une méthode supplémentaire : findBetweenDate (Machine)
+
+
+
+
+
+<img width="661" height="793" alt="hber4" src="https://github.com/user-attachments/assets/2738eb5b-f9a4-49ea-b5c9-4a2246fd805f" />
 
 ### 7️. Classe Test (Main)
 
@@ -158,5 +168,10 @@ Cette classe permet de vérifier que la configuration Hibernate fonctionne corre
 - @After pour nettoyer la base après test
 
 
-# Tests Machine
-MachineServiceTest
+<img width="817" height="240" alt="H3" src="https://github.com/user-attachments/assets/edd05726-6c8c-4023-88b2-eb83239096a9" />
+
+<img width="992" height="337" alt="h2" src="https://github.com/user-attachments/assets/78bb87c6-d444-45f6-a6e8-714e8a9df53d" />
+
+
+https://github.com/user-attachments/assets/55d6693e-3588-4feb-acf9-d71b5f79517a
+
